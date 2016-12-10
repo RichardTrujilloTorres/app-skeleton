@@ -1,0 +1,11 @@
+{
+    "require": {
+        "longman/telegram-bot": "^0.36.0",
+        "irazasyed/telegram-bot-sdk": "^2.1",
+        "illuminate/database": "^5.3",
+        "filp/whoops": "^2.1",
+        "php-di/php-di": "^5.4",
+        "twig/twig": "^1.28",
+        "robmorgan/phinx": "^0.6.5"
+    }
+}
